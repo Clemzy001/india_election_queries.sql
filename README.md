@@ -1,0 +1,2 @@
+# india_election_queries.sql
+INDIA GENERAL ELECTION RESULTS ANALYSIS 2024
